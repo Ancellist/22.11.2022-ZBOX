@@ -1,0 +1,340 @@
+body {
+  position: relative;
+width: 100%;
+height: 1024px;
+background: rgb(30,39,97);
+background: linear-gradient(90deg, rgba(30,39,97,1) 27%, rgba(122,32,72,1) 100%);
+overflow: hidden;
+margin: 0px;
+}
+
+.box1{
+position: absolute;
+width: 100%;
+height: 126px;
+left: 0px;
+top: 0px;
+
+background: #0F0326;
+border: 10px solid #0F0326;
+}
+
+h1 {
+position: absolute;
+width: 210px;
+height: 61px;
+left: 131px;
+top: 33px;
+margin: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+}
+
+.амогус1 {
+position: absolute;
+width: 341px;
+height: 39px;
+left: 974px;
+top: 44px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+}
+
+.sus {
+position: absolute;
+width: 678px;
+height: 80px;
+left: 11px;
+top: 134px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+.sus2 {
+  position: absolute;
+width: 423px;
+height: 18px;
+left: 2px;
+top: 594px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 18px;
+
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.card {
+box-sizing: border-box;
+
+position: absolute;
+width: 214px;
+height: 381px;
+left: 2px;
+top: 216px;
+
+background: linear-gradient(148.34deg, #1E2761 38.8%, #7A2048 100%);
+border: 5px solid #52B788;
+}
+
+.card-title{
+position: absolute;
+width: 175px;
+height: 41px;
+left: 23px;
+top: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+}
+
+.card-smalltitle{
+position: absolute;
+width: 175px;
+height: 26px;
+left: 23px;
+top: 269px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+.card-img{
+position: absolute;
+width: 177px;
+height: 212px;
+left: 21px;
+top: 61px;
+
+background:
+
+background: url(FarCry6.jpg);
+background-size: cover;
+}
+
+.button1{
+position: absolute;
+width: 154px;
+height: 40px;
+left: 25px;
+bottom: 19px;
+padding: 1px;
+font-size: 32px;
+color: #FFFFFF;
+border-color: #FFFFFF;
+background: #52B788;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 60px;
+}
+
+.card2{
+box-sizing: border-box;
+
+position: absolute;
+width: 214px;
+height: 381px;
+left: 347px;
+top: -5px;
+
+background: linear-gradient(148.34deg, #1E2761 38.8%, #7A2048 100%);
+border: 5px solid #52B788;
+
+}
+.card-title2{
+position: absolute;
+width: 209px;
+height: 49px;
+left: 25px;
+top: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+}
+.card-smalltitle2{
+position: absolute;
+width: 175px;
+height: 26px;
+left: 23px;
+top: 269px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+.card-img2{
+position: absolute;
+width: 177px;
+height: 212px;
+left: 21px;
+top: 61px;
+
+background:
+
+background: url(Cuberpunk.jpg);
+background-size: cover;
+}
+.button2{position: absolute;
+position: absolute;
+width: 154px;
+height: 40px;
+left: 25px;
+bottom: 19px;
+padding: 1px;
+font-size: 32px;
+color: #FFFFFF;
+border-color: #FFFFFF;
+background: #52B788;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 60px;
+
+}
+
+.card3{
+box-sizing: border-box;
+
+position: absolute;
+width: 214px;
+height: 381px;
+left: 347px;
+top: -5px;
+
+background: linear-gradient(148.34deg, #1E2761 38.8%, #7A2048 100%);
+border: 5px solid #52B788;
+
+}
+.card-title3{
+position: absolute;
+width: 209px;
+height: 49px;
+left: 25px;
+top: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+}
+.card-smalltitle3{position: absolute;
+position: absolute;
+width: 175px;
+height: 26px;
+left: 23px;
+top: 269px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+.card-img3{
+position: absolute;
+width: 177px;
+height: 212px;
+left: 21px;
+top: 61px;
+
+background:
+
+background: url(Cuberpunk.jpg);
+background-size: cover;
+}
+.button3{position: absolute;
+position: absolute;
+width: 154px;
+height: 40px;
+left: 25px;
+bottom: 19px;
+padding: 1px;
+font-size: 32px;
+color: #FFFFFF;
+border-color: #FFFFFF;
+background: #52B788;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 60px;
+
+}
+
+.table{
+  position: absolute;
+width: 100%;
+height: 372px;
+left: 0px;
+top: 652px;
+border: 30px;
+color: #52B788;
+border-color: #52B788;
+font-size: 36px;
+line-height: 18px;
+align-items: center;
+text-align: center;
+font-style: normal;
+font-weight: 700;
+font-family: 'Inter';
+}
+.button
+/* Rectangle 20 */
+{
+position: absolute;
+width: 370px;
+height: 126px;
+left: 279px;
+top: -2px;
+font-size: 32px;
+padding: 1px;
+color: #FFFFFF;
+border-color: #FFFFFF;
+background: #52B788;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 60px;
+}
